@@ -11,8 +11,11 @@ And follow the instructions on the notebook
 ## Enabled users
 
 You can change the enabled users by simply adding your Telegram ID(not username or name, but ID) to the `enabled` array.
+
 For example:
 
 `enabled =[12345678,12344321]`
+
 here we have enabled two users, `12345678` and `12344321`.
+
 If this array is empty, everyone can use your bot (for testing purposes, we decided to set it like that).
